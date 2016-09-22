@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/iainreid820/kraken-api-client#readme",
   "dependencies": {
+    "config": "^1.21.0",
     "request": "^2.74.0"
   }
 }
