@@ -1,8 +1,6 @@
-// vim: set cc=120 ts=2 et:
-'use strict';
+'use strict'
 
 // Methods
-const time = require('./methods/time');
+const time = require('./methods/time')
 
-exports.time = time;
-
+exports.time = time
